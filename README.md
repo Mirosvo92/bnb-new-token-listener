@@ -1,4 +1,4 @@
-# FE part for listener new pair in bnb chain dor pancakeswap
+# FE part for listener new pair in bnb chain for pancakeswap
 
 ## Installation
 
