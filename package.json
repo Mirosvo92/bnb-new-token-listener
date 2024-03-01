@@ -1,6 +1,7 @@
 {
   "name": "bnb-new-token-listener",
   "private": false,
+  "license": "MIT",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
